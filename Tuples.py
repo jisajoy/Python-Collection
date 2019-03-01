@@ -57,3 +57,6 @@ print(thisSet)# clear all values and retrun an empty constructor of set
 
 contSet = set(("apple", "banana", "cherry")) # note the double round-brackets
 print(contSet)
+
+
+Relative to today's computers and transmission media, data is information converted into binary digital form. It is acceptable for data to be used as a singular subject or a plural subject.

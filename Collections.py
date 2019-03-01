@@ -29,3 +29,6 @@ print(thisList)#clear the list and prints the empty array
 #new list is make with the constructor of list and it works as the same function above
 newList = list(("android","java script","ajax", "java", "PHP", "Phython"))
 print(newList)
+
+
+In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information converted into binary digital form. It is acceptable for data to be used as a singular subject or a plural subject.
