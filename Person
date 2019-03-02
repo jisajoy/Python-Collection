@@ -1,0 +1,7 @@
+person1 = {
+    "name": "jisa",
+    "age": "24",
+    "job": "Android Developer",
+    "team": "Android Development",
+    "company": "Seeroo It Solutions"
+}
